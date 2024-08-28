@@ -29,27 +29,3 @@ git clone https://github.com/JellaSindhu/car-rental-backend.git
 cd car-rental-backend
 
 
-### Adding the README File to GitHub
-
-1. **Create the README File:**
-   - Create a new file named `README.md` in the root directory of your `car-rental-backend` project.
-
-2. **Add Content:**
-   - Copy and paste the above template into the `README.md` file.
-
-3. **Commit and Push:**
-   - Stage the new file:
-     ```bash
-     git add README.md
-     ```
-   - Commit the changes:
-     ```bash
-     git commit -m "Add README file"
-     ```
-   - Push to GitHub:
-     ```bash
-     git push origin main
-     ```
-
-This `README.md` file provides essential information about your project, setup instructions, and contribution guidelines. Adjust the details as needed for your specific project setup and requirements.
-
