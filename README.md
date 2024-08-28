@@ -18,14 +18,4 @@ The **Car Rental Backend** project is a Spring Boot application designed to mana
 - **Maven** or **Gradle** (depending on your build tool)
 - **Database** (e.g., MySQL, PostgreSQL)
 
-## Setup and Installation
-
-### Clone the Repository
-
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/JellaSindhu/car-rental-backend.git
-cd car-rental-backend
-
 
